@@ -1,0 +1,12 @@
+{
+  "name": "misadventure-writer",
+  "description": "Write funny, self-deprecating travel blog posts in your own voice. Includes a setup interview that builds a private voice profile from your writing samples.",
+  "version": "0.1.0",
+  "author": {
+    "name": "umairadeeb"
+  },
+  "homepage": "https://github.com/umairadeeb/misadventure-writer",
+  "repository": "https://github.com/umairadeeb/misadventure-writer",
+  "license": "MIT",
+  "keywords": ["travel", "blog", "humor", "writing", "skill"]
+}

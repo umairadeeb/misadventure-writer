@@ -1,0 +1,18 @@
+# Personal voice data. NEVER commit these.
+voice/
+skills/*/voice/
+.private/
+*.private.md
+
+# Build output
+dist/
+*.zip
+*.skill
+
+# Eval workspaces
+*-workspace/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

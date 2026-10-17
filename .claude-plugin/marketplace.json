@@ -1,0 +1,14 @@
+{
+  "name": "misadventure-writer",
+  "owner": {
+    "name": "umairadeeb"
+  },
+  "plugins": [
+    {
+      "name": "misadventure-writer",
+      "source": "./",
+      "description": "Write funny, self-deprecating travel blog posts in your own voice.",
+      "version": "0.1.0"
+    }
+  ]
+}
