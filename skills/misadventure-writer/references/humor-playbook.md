@@ -74,6 +74,15 @@ Set the expectation, then show what happened. The gap is the joke.
 
 Keep the brochure half grounded in something the user actually saw or read, such as a booking page, a sign, or a friend's recommendation. Don't mock a real, named small business; mock the gap between marketing and reality in general, or make yourself the fool who believed the photos.
 
+### Variant: the certain narrator (petty grievance)
+
+Some voices are arrogant rather than anxious: the narrator is sure, indignant, and building a legal case over something tiny (a seat map, a queue, a sign, a policy). The comedy works when:
+- the grievance is small and the argument is huge,
+- the narrator is specifically wrong, and the comeuppance lands on him,
+- the target is a rule, a system, or his own plan, never a person or a place.
+
+Escalate in steps, each one a little more reasonable-sounding and a little more insane. Then let reality ruin the case in one plain sentence. This is self-deprecation in a loud costume, so the "narrator is the idiot" rule still holds.
+
 ## 6. Comic threes
 
 Two items set a pattern, the third breaks it. The third item should be shorter, odder, or more specific than the first two.
@@ -135,6 +144,14 @@ The joke is on the narrator, the situation, or the absurdity of tourism itself. 
 If you notice the laugh depends on "those people are strange" or "this place is backward", rewrite so the narrator is the one who was out of place. Foreignness is the narrator's problem, not the place's.
 
 Mocking tourist behavior, including the narrator's own, is fair game. So is institutional absurdity (airline policies, booking systems) as long as no individual worker is the target.
+
+### Borrowing from a beloved band, show, or book
+
+If the voice profile lists influences the author loves, a short allusion can add warmth: a song title bent to fit the moment, a catchphrase, a famous line.
+- Keep it short: a title or a few words. Do not reproduce lyrics, verses, or passages. It's a nod, not a copy.
+- Fit it to the situation. The reference should be funnier because the moment really is that situation.
+- One or two per post. Don't explain them. Readers who get it enjoy it, and the rest should still enjoy the sentence.
+- Skip it when it would be forced. A good plain sentence beats a strained reference.
 
 ## 11. What not to do
 

@@ -36,8 +36,8 @@ Ask a few questions at a time, not all at once. Wait for answers, then continue.
 
 **Round 2: the narrator**
 4. What do you usually make fun of yourself for when you travel? (Getting lost, packing, language fails, being cheap, being out of shape, tech obsession, overplanning, underplanning, something else.)
-5. What kinds of jokes do you enjoy writing: dry understatement, rants, absurd comparisons, deadpan lists, something else?
-6. Any pet phrases or recurring bits you already use?
+5. What kinds of jokes do you enjoy writing: dry understatement, rants, absurd comparisons, deadpan lists, arrogant petty-grievance comedy (the narrator is certain and wrong), something else?
+6. Any pet phrases or recurring bits you already use? Do you borrow catchphrases from shows or books you're into at the moment? (If so, ask what they're into before each post.)
 7. British or American spelling?
 
 **Round 3: people and boundaries**
